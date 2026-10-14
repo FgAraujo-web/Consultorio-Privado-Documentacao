@@ -21,7 +21,7 @@ O projeto demonstra a conceção e implementação de uma aplicação web de ges
 
 Apresentação da arquitetura, tecnologias, modelo de dados e principais funcionalidades da aplicação.
 
-**2. Guia Técnico de Instalação e Configuração (Consultório Privado — Documentação)**
+**2. [Guia Técnico de Instalação e Configuração](Guia_Tecnico_Instalacao_Configuracao_Consultorio_Privado.docx)**
 
 Documento com os requisitos técnicos, a configuração do SQL Server, o Entity Framework Core e os procedimentos de compilação e execução.
 
