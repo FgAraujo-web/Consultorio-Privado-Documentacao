@@ -1,4 +1,4 @@
-# # Consultório Privado — Documentação Técnica e Funcional
+# Consultório Privado — Documentação Técnica e Funcional
 
 ## Apresentação
 
