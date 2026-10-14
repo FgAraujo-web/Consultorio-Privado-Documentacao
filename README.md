@@ -29,6 +29,10 @@ Documento com os requisitos técnicos, a configuração do SQL Server, o Entity 
 
 Descrição dos principais módulos, procedimentos de utilização e capturas de ecrã.
 
+**4. [Guia de Arquitetura e Desenvolvimento — Consultório Privado](Guia_Arquitetura_Desenvolvimento.pdf)**
+
+Documentação técnica destinada a programadores, com descrição da arquitetura da solução, estrutura do código-fonte, entidades e relacionamentos, fluxos de execução, regras de negócio, Entity Framework Core, tratamento de erros e orientações para manutenção e evolução da aplicação.
+
 ## Tecnologias
 
 C# · .NET 10 · ASP.NET Core MVC · Entity Framework Core · SQL Server · Bootstrap · Git/GitHub
